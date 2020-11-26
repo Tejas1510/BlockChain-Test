@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Pranali Ranger/CLionProjects/TestChain/Block.cpp
+Block.h
+C:/Users/Pranali Ranger/CLionProjects/TestChain/Block.h
+sha256.h
+C:/Users/Pranali Ranger/CLionProjects/TestChain/sha256.h
+
+C:/Users/Pranali Ranger/CLionProjects/TestChain/Block.h
+cstdint
+-
+iostream
+-
+sstream
+-
+
+C:/Users/Pranali Ranger/CLionProjects/TestChain/Blockchain.cpp
+Blockchain.h
+C:/Users/Pranali Ranger/CLionProjects/TestChain/Blockchain.h
+
+C:/Users/Pranali Ranger/CLionProjects/TestChain/Blockchain.h
+cstdint
+-
+vector
+-
+Block.h
+C:/Users/Pranali Ranger/CLionProjects/TestChain/Block.h
+
+C:/Users/Pranali Ranger/CLionProjects/TestChain/main.cpp
+Blockchain.h
+C:/Users/Pranali Ranger/CLionProjects/TestChain/Blockchain.h
+
+C:/Users/Pranali Ranger/CLionProjects/TestChain/sha256.h
+string
+-
+
