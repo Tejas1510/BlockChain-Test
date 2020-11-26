@@ -1,4 +1,4 @@
-# BlockChain-Test
+# Simple BlockChain Implementation in C++
 Remember each block is linked to the previous block by a public variable sPrevHash
 The constructor signature takes three parameters for nIndexIn and sDataIn
 Blockchains use cryptography. therefore here we used SHA256 hashing technique to create hashes of our block. It is also possible that we can write our own cryptography but we need not to worry about it as we can get it from open source softwares.
