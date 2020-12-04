@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=009ACD&height=100&section=header&text=Awesome-Hacking-Scripts&fontSize=60%&fontColor=ffffff" alt="website title image"></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=009ACD&height=100&section=header&text=BlockChain Implementation&fontSize=60%&fontColor=ffffff" alt="website title image"></a>
   <h2 align="center">👉Simple BlockChain Implementation in C++.👈</h2>
 </p>
 
